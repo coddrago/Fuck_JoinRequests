@@ -19,8 +19,6 @@ import random
 import asyncio
 import logging
 
-from telethon.tl.functions.channels import JoinChannelRequest
-
 from .. import loader, utils
 
 logger = logging.getLogger(__name__)
