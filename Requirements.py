@@ -22,8 +22,6 @@ import asyncio
 import logging
 import tempfile
 
-from telethon.tl.functions.channels import JoinChannelRequest
-
 from .. import loader, utils
 
 logger = logging.getLogger(__name__)
