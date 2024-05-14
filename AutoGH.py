@@ -1,15 +1,7 @@
-#   █▀▀ ▄▀█   █▀▄▀█ █▀█ █▀▄ █▀
-#   █▀░ █▀█   █░▀░█ █▄█ █▄▀ ▄█
-
-#   https://t.me/famods
-
-# 🔒    Licensed under the GNU AGPLv3
-# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
 
 # ---------------------------------------------------------------------------------
 # Name: AutoGH
 # Description: Авто-коммиты в Github
-# meta developer: @FAmods
 # meta banner: https://github.com/FajoX1/FAmods/blob/main/assets/banners/autogh.png?raw=true
 # requires: PyGithub
 # ---------------------------------------------------------------------------------
