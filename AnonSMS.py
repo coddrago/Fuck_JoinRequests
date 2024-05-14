@@ -1,15 +1,7 @@
-#   █▀▀ ▄▀█   █▀▄▀█ █▀█ █▀▄ █▀
-#   █▀░ █▀█   █░▀░█ █▄█ █▄▀ ▄█
-
-#   https://t.me/famods
-
-# 🔒    Licensed under the GNU AGPLv3
-# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
 
 # ---------------------------------------------------------------------------------
 # Name: AnonSMS
 # Description: Анонимное сообщение
-# meta developer: @FAmods
 # meta banner: https://github.com/FajoX1/FAmods/blob/main/assets/banners/anonsms.png?raw=true
 # ---------------------------------------------------------------------------------
 
