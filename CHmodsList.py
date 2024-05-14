@@ -1,15 +1,8 @@
-#   █▀▀ ▄▀█   █▀▄▀█ █▀█ █▀▄ █▀
-#   █▀░ █▀█   █░▀░█ █▄█ █▄▀ ▄█
-
-#   https://t.me/famods
-
-# 🔒    Licensed under the GNU AGPLv3
-# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
 
 # ---------------------------------------------------------------------------------
 # Name: CHmodsList
 # Description: Список каналов с модулями (идея: @codrago)
-# meta developer: @FAmods
+# meta developer: @vecax, @codrago
 # meta banner: https://github.com/FajoX1/FAmods/blob/main/assets/banners/chmodslist.png?raw=true
 # ---------------------------------------------------------------------------------
 
